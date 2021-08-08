@@ -1,0 +1,35 @@
+.btn-login  {
+    background-color: #56baed;
+    border: 0;
+    position: relative;
+    color: white;
+    padding: 15px 80px;
+    text-align: center;
+    display: inline-block;
+    font-size: 1.1rem;
+    box-shadow: 0 10px 30px 0 rgba(95,186,233,0.4);
+    border-radius: 18px;
+    margin: 20px;  
+    width: 60%;
+    transition: all .25s ease;
+    overflow: hidden;
+}
+  
+.btn-login:hover  {
+  background-color : red;  
+}
+
+.a:hover {
+    transform: scaleX(-1);
+    border : solid black;
+  }
+
+.one{
+  background-color: black;
+  font-size: 1.2 rem;
+  border-radius : 30px;
+}
+
+h2{
+  color: white;
+}
